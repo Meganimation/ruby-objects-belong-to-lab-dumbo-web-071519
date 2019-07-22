@@ -1,3 +1,3 @@
-def Post 
-  
+class Post 
+  attr_accessor :author :name 
 end
